@@ -109,3 +109,23 @@ header{
 .infos{
     text-align: center;
 }
+/*What I Do*/
+.what-i-do{
+    margin: 0 200px;
+    text-align: center;
+}
+#wid-p{
+    padding: 20px 70px;
+}
+.wid-boxes{
+    display: flex;
+    margin-bottom: 50px;
+    gap: 20px;
+}
+.wid-box{
+    padding: 10px;
+    text-align: left;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgb(236, 233, 233);
+    background-color: white;
+}
