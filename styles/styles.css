@@ -82,3 +82,30 @@ header{
     margin-bottom: 20px;
     color: #000000cc;
 }
+
+/*About section*/
+.about-info{
+    margin: 130px 200px;
+    padding: 130px;
+    background-color: rgb(251, 247, 242);
+}
+.about-margin{
+    border: 1px #000000cc solid;
+    background-color: white;
+}
+.about-title{
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+.about-para{
+    text-align: center;
+    color: #000000cc;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.infos{
+    text-align: center;
+}
