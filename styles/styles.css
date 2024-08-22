@@ -129,3 +129,23 @@ header{
     box-shadow: 0px 6px 50px 0px rgb(236, 233, 233);
     background-color: white;
 }
+/*resume section*/
+.resume-section{
+    margin: 0 200px;
+}
+.resume-title{
+    text-align: center;
+}
+.resume-contents{
+    display: flex;
+    gap: 20px;
+}
+.grey{
+    color: #000000cc;
+    font-size: 12px;
+}
+.resume-btn{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
