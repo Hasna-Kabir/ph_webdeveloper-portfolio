@@ -148,4 +148,24 @@ header{
     margin-top: 40px;
     display: flex;
     justify-content: center;
+    margin-bottom: 70px;
+}
+
+/*footer*/
+.footer-section{
+    padding: 90px 200px;
+    background-color: rgb(251, 247, 242);
+    display: flex;
+    gap: 50px;
+}
+.message, .connect{
+    width: 50%;
+}
+.inputs input[type="text"], .inputs input[type="email"], textarea{
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 0;
 }
