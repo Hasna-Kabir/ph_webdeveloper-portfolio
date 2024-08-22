@@ -9,6 +9,7 @@ body{
 nav{
     display: flex;
     justify-content: space-between;
+    margin: 0 200px;
 }
 .nav-title{
     color: #000000cc;
@@ -40,4 +41,11 @@ nav li > a, button{
     border-radius: 10%;
     border: white;
     font-size: 17px;
+}
+.bb{
+    display: inline;
+}
+.banner{
+    display: flex;
+    padding: 30px 30px 30px 200px;
 }
